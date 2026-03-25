@@ -1,16 +1,114 @@
 # bkashdemoapp
 
-A new Flutter project.
+## 🚀 Key Features
 
-## Getting Started
+- 🔐 User authentication
+- 📱 Clean and responsive UI
+- ⚡ Fast performance using Flutter
+- 📱 Fully responsive UI (Mobile, Tablet & Desktop)
+- 🧩 Modular and scalable project structure
 
-This project is a starting point for a Flutter application.
+  ## 🛠️ Tech Stack
+- Flutter
+- Dart
+- Provider (State Management)
+  
+## 📱 Screenshots
+<img width="100" height="160" alt="image" src="https://github.com/user-attachments/assets/c12ab6a3-bcf4-4636-a41c-dd9f6118268b" />
+## 🚀 Key Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Secure authentication system (Login & Registration)
+- 🛍️ Dynamic product listing via REST APIs
+- 🔄 Efficient state management using Provider pattern
+- 📱 Fully responsive UI (Mobile, Tablet & Desktop)
+- 🌙 Dark / Light mode toggle
+- 🌍 Multi-language translation support
+- ⚡ Optimized performance with smooth state updates
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  ## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- REST API
+- Provider (State Management)
+  
+## 📱 Screenshots
+<img width="100" height="160" alt="image" src="https://github.com/user-attachments/assets/0a03e645-c3e5-4414-ad3b-04210a95e685" /> 
+## 🚀 Key Features
+
+- 🔐 Secure authentication system (Login & Registration)
+- 🛍️ Dynamic product listing via REST APIs
+- 🔄 Efficient state management using Provider pattern
+- 📱 Fully responsive UI (Mobile, Tablet & Desktop)
+- 🌙 Dark / Light mode toggle
+- 🌍 Multi-language translation support
+- ⚡ Optimized performance with smooth state updates
+
+  ## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- REST API
+- Provider (State Management)
+  
+## 📱 Screenshots
+<img width="100" height="160" alt="image" src="https://github.com/user-attachments/assets/0a03e645-c3e5-4414-ad3b-04210a95e685" /> 
+## 🚀 Key Features
+
+- 🔐 Secure authentication system (Login & Registration)
+- 🛍️ Dynamic product listing via REST APIs
+- 🔄 Efficient state management using Provider pattern
+- 📱 Fully responsive UI (Mobile, Tablet & Desktop)
+- 🌙 Dark / Light mode toggle
+- 🌍 Multi-language translation support
+- ⚡ Optimized performance with smooth state updates
+
+  ## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- REST API
+- Provider (State Management)
+  
+## 📱 Screenshots
+<img width="100" height="160" alt="image" src="https://github.com/user-attachments/assets/0a03e645-c3e5-4414-ad3b-04210a95e685" /> 
+## 🚀 Key Features
+
+- 🔐 Secure authentication system (Login & Registration)
+- 🛍️ Dynamic product listing via REST APIs
+- 🔄 Efficient state management using Provider pattern
+- 📱 Fully responsive UI (Mobile, Tablet & Desktop)
+- 🌙 Dark / Light mode toggle
+- 🌍 Multi-language translation support
+- ⚡ Optimized performance with smooth state updates
+
+  ## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- REST API
+- Provider (State Management)
+  
+## 📱 Screenshots
+<img width="100" height="160" alt="image" src="https://github.com/user-attachments/assets/0a03e645-c3e5-4414-ad3b-04210a95e685" /> 
+## 🚀 Key Features
+
+- 🔐 Secure authentication system (Login & Registration)
+- 🛍️ Dynamic product listing via REST APIs
+- 🔄 Efficient state management using Provider pattern
+- 📱 Fully responsive UI (Mobile, Tablet & Desktop)
+- 🌙 Dark / Light mode toggle
+- 🌍 Multi-language translation support
+- ⚡ Optimized performance with smooth state updates
+
+  ## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- REST API
+- Provider (State Management)
+  
+## 📱 Screenshots
+<img width="100" height="160" alt="image" src="https://github.com/user-attachments/assets/0a03e645-c3e5-4414-ad3b-04210a95e685" /> 
+
+
