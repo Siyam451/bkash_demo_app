@@ -15,7 +15,7 @@
   ## 📱 Screenshots
 
 ### 🔐 Login Screen
-<img width="100" height="160" alt="Login Screen" src="https://github.com/user-attachments/assets/c12ab6a3-bcf4-4636-a41c-dd9f6118268b" />
+<img width="227" height="498" alt="Login Screen" src="https://github.com/user-attachments/assets/c12ab6a3-bcf4-4636-a41c-dd9f6118268b" />
 
 ### 🏠 Home Screen
 <img width="227" height="498" alt="Home Screen" src="https://github.com/user-attachments/assets/2d35b974-2144-4e17-9a7f-f5643b5cef57" />
